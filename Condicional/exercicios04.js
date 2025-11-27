@@ -6,7 +6,7 @@
 let nota01 = Number.parseFloat(prompt ("Digite sua primeira nota"))
 let nota02 = Number.parseFloat(prompt ("Digite sua segunda nota") )
 let nota03 = Number.parseFloat(prompt("Digite sua terceira nota") )
-let nota04 = Number.parseFloat(prompt ("Digite sua quarta nota"))
+let nota04 = Number.parseFloat(prompt ("Digite sua quarta nota"))``
 
 let media = (nota01 + nota02 + nota03 + nota04) / 4
 
